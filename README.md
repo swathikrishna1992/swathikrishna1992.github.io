@@ -1,3 +1,3 @@
-## Welcome to my page :in: :computer:
+## Welcome to my page  :computer:
 
 ![coder](./images/coder.png)
