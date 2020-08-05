@@ -49,6 +49,10 @@
 
 ---
 
+<img align="left" alt="Swathi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swathikrishna1992&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Praveen's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathikrishna1992&hide=ruby&show_icons=true&hide_border=true" />
+
 
 [website]: https://swathikrishna1992.github.io
 
